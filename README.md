@@ -16,11 +16,11 @@ You have been provided a [JSON object](js/index.js) with all the necessary data 
 
 **Follow these steps to set up and work on your project:**
 
-* [ ] Create a forked copy of this project.
-* [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-* [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-* [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-* [ ] Push commits: git push origin `<firstName-lastName>`.
+* [D] Create a forked copy of this project.
+* [D] Clone your OWN version of the repository (Not Lambda's by mistake!).
+* [D] Create a new branch: git checkout -b `<firstName-lastName>`.
+* [D] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+* [D] Push commits: git push origin `<firstName-lastName>`.
 
 ### Task 2a: MVP
 
